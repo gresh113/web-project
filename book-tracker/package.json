@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "Book project test",
     "keywords": [],
-    "homepage": "https://gresh113.github.io/web-project/book-tracker/index.html",
+    "homepage": "https://gresh113.github.io/web-project/book-tracker",
     "main": "index.js",
     "dependencies": {
       "@material-ui/core": "latest",
