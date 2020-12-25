@@ -1,9 +1,9 @@
 {
-    "name": "Usage",
-    "version": "3.0.0",
-    "description": "Live demo",
+    "name": "usage",
+    "version": "0.1.0",
+    "description": "Book project test",
     "keywords": [],
-    "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+    "homepage": "https://gresh113.github.io/web-project/book-tracker/index.html",
     "main": "index.js",
     "dependencies": {
       "@material-ui/core": "latest",
